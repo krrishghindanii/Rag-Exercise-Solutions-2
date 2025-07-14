@@ -1,0 +1,473 @@
+Document: company_benefits_2025.txt
+Total chunks: 11
+
+=== CHUNK 0 (chars 0-1000) ===
+COMPANY BENEFITS GUIDE 2025
+TechCorp Industries
+Human Resources Department
+Effective: January 1, 2025
+
+WELCOME TO YOUR BENEFITS
+
+At TechCorp, we believe in taking care of our employees and their families. This comprehensive benefits package is designed to support your health, financial security, and overall well-being.
+
+Open Enrollment: November 1-30, 2024
+New Hire Enrollment: Within 30 days of start date
+Life Events: Report within 30 days for special enrollment
+
+HEALTH INSURANCE
+
+Medical Plans:
+
+1. PPO Plus Plan (Premium Option)
+   - Monthly Premium: $200 employee / $500 family
+   - Deductible: $500 individual / $1,000 family
+   - Out-of-Pocket Max: $3,000 / $6,000
+   - Coinsurance: 90% after deductible
+   - PCP Visit: $20 copay
+   - Specialist: $40 copay
+   - ER: $200 copay
+   - Prescription: $10/$25/$50
+
+2. PPO Standard Plan
+   - Monthly Premium: $100 employee / $300 family
+   - Deductible: $1,500 individual / $3,000 family
+   - Out-of-Pocket Max: $5,000 / $10,000
+   - Coinsurance: 
+
+=== CHUNK 1 (chars 800-1800) ===
+tion: $10/$25/$50
+
+2. PPO Standard Plan
+   - Monthly Premium: $100 employee / $300 family
+   - Deductible: $1,500 individual / $3,000 family
+   - Out-of-Pocket Max: $5,000 / $10,000
+   - Coinsurance: 80% after deductible
+   - PCP Visit: $30 copay
+   - Specialist: $60 copay
+   - ER: $300 copay
+   - Prescription: $15/$35/$70
+
+3. HDHP with HSA
+   - Monthly Premium: $0 employee / $100 family
+   - Deductible: $3,000 individual / $6,000 family
+   - Out-of-Pocket Max: $6,000 / $12,000
+   - Coinsurance: 80% after deductible
+   - HSA Contribution: $1,000 individual / $2,000 family
+   - Preventive care: 100% covered
+
+Networks:
+- Blue Cross Blue Shield nationwide
+- Telemedicine included (24/7)
+- International coverage available
+
+Dental Insurance:
+
+TechCorp Dental Plan
+- Monthly Premium: $15 employee / $40 family
+- Annual Maximum: $2,500 per person
+- Preventive: 100% covered (2 cleanings/year)
+- Basic Services: 80% after $50 deductible
+- Major Services: 60% after $50 deductible
+- Orthodontia: 50% 
+
+=== CHUNK 2 (chars 1600-2600) ===
+/ $40 family
+- Annual Maximum: $2,500 per person
+- Preventive: 100% covered (2 cleanings/year)
+- Basic Services: 80% after $50 deductible
+- Major Services: 60% after $50 deductible
+- Orthodontia: 50% up to $2,000 lifetime
+
+Vision Insurance:
+
+EyeMed Vision Plan
+- Monthly Premium: $8 employee / $20 family
+- Eye Exam: $10 copay
+- Frames: $150 allowance
+- Lenses: $25 copay
+- Contacts: $150 allowance
+- LASIK: 15% discount
+
+FINANCIAL BENEFITS
+
+401(k) Retirement Plan:
+- Eligibility: Immediate
+- Company Match: 100% up to 6% of salary
+- Vesting: Immediate vesting
+- Investment Options: 25+ funds
+- Roth 401(k) available
+- Financial advisors available
+
+Life Insurance:
+- Basic Life: 2x annual salary (company paid)
+- Supplemental Life: Up to 5x salary available
+- Spouse Life: Up to $500,000
+- Child Life: $10,000 per child
+- AD&D included
+
+Disability Insurance:
+- Short-Term: 100% salary for 12 weeks (company paid)
+- Long-Term: 60% salary after 90 days (company paid)
+- Supplemental options available
+
+
+
+=== CHUNK 3 (chars 2400-3400) ===
+: $10,000 per child
+- AD&D included
+
+Disability Insurance:
+- Short-Term: 100% salary for 12 weeks (company paid)
+- Long-Term: 60% salary after 90 days (company paid)
+- Supplemental options available
+
+Stock Purchase Plan (ESPP):
+- 15% discount on TechCorp stock
+- Purchase periods: June and December
+- Up to 10% of salary contribution
+- No holding period required
+
+Additional Financial Benefits:
+- Commuter Benefits: $270/month pre-tax
+- Flexible Spending Accounts (FSA)
+  - Healthcare FSA: Up to $3,050
+  - Dependent Care FSA: Up to $5,000
+- Legal Services Plan: $15/month
+- Pet Insurance: Available at group rates
+- Identity Theft Protection: $10/month
+
+TIME OFF BENEFITS
+
+Paid Time Off (PTO):
+- 0-2 years: 15 days
+- 3-5 years: 20 days
+- 6-10 years: 25 days
+- 11+ years: 30 days
+- Rollover: Up to 5 days
+- Buy/Sell: Up to 5 days
+
+Holidays (12 Company + 2 Floating):
+- New Year's Day
+- Martin Luther King Jr. Day
+- Presidents' Day
+- Memorial Day
+- Juneteenth
+- Independence Day
+- Labor Day
+- Indigeno
+
+=== CHUNK 4 (chars 3200-4200) ===
+days
+- Buy/Sell: Up to 5 days
+
+Holidays (12 Company + 2 Floating):
+- New Year's Day
+- Martin Luther King Jr. Day
+- Presidents' Day
+- Memorial Day
+- Juneteenth
+- Independence Day
+- Labor Day
+- Indigenous Peoples' Day
+- Veterans Day
+- Thanksgiving (2 days)
+- Christmas Day
+- Plus 2 floating holidays
+
+Sick Leave:
+- 10 days per year (separate from PTO)
+- Unlimited rollover
+- Can be used for family care
+
+Parental Leave:
+- Birth Parent: 12 weeks paid + 8 weeks unpaid
+- Non-Birth Parent: 6 weeks paid + 8 weeks unpaid
+- Adoption: 12 weeks paid
+- Foster Placement: 6 weeks paid
+- Gradual return-to-work available
+
+Other Leave Types:
+- Bereavement: 5 days immediate family, 3 days extended
+- Jury Duty: Paid, no limit
+- Military Leave: Differential pay
+- Sabbatical: After 7 years, 4-8 weeks
+
+WELLNESS BENEFITS
+
+Wellness Program:
+- Annual wellness stipend: $1,000
+- On-site fitness centers (select locations)
+- Gym membership reimbursement: $100/month
+- Fitness tracker subsidy: $200/year
+- Virtual fitnes
+
+=== CHUNK 5 (chars 4000-5000) ===
+EFITS
+
+Wellness Program:
+- Annual wellness stipend: $1,000
+- On-site fitness centers (select locations)
+- Gym membership reimbursement: $100/month
+- Fitness tracker subsidy: $200/year
+- Virtual fitness classes
+- Nutrition consultations
+
+Mental Health Support:
+- Employee Assistance Program (EAP): Free
+- 12 free counseling sessions per year
+- 24/7 crisis hotline
+- Work-life balance resources
+- Meditation app subscriptions
+- Stress management workshops
+
+Health Screenings:
+- Annual health fair
+- Biometric screenings
+- Flu shots on-site
+- Health coaching
+- Smoking cessation programs
+- Weight management support
+
+FAMILY BENEFITS
+
+Child Care:
+- On-site childcare (HQ and major offices)
+- Backup care: 20 days/year
+- Childcare FSA: $5,000
+- Summer camp discounts
+- After-school program subsidies
+
+Elder Care:
+- Elder care consultations
+- Backup adult care: 10 days/year
+- Support groups
+- Resource referrals
+
+Family Planning:
+- Fertility coverage: $25,000 lifetime
+- Adoption assistance: $10,000
+- Sur
+
+=== CHUNK 6 (chars 4800-5800) ===
+r Care:
+- Elder care consultations
+- Backup adult care: 10 days/year
+- Support groups
+- Resource referrals
+
+Family Planning:
+- Fertility coverage: $25,000 lifetime
+- Adoption assistance: $10,000
+- Surrogacy support: $10,000
+- Pregnancy support programs
+- Lactation support and rooms
+
+PROFESSIONAL DEVELOPMENT
+
+Education Benefits:
+- Tuition reimbursement: $7,500/year
+- Professional certifications: 100% covered
+- Conference attendance: $2,500/year
+- LinkedIn Learning: Free access
+- Internal training programs
+- Mentorship programs
+
+Career Development:
+- Annual development budget
+- Leadership training programs
+- Cross-functional rotations
+- Innovation time (20% projects)
+- Patent filing bonuses
+
+LIFESTYLE BENEFITS
+
+Work Flexibility:
+- Hybrid work options
+- Flexible schedules
+- Remote work equipment: $2,000 initial setup
+- Internet reimbursement: $50/month
+- Co-working space access
+
+Perks and Discounts:
+- Employee discount program (1000+ retailers)
+- Company product discounts: 50% off
+- Mobil
+
+=== CHUNK 7 (chars 5600-6600) ===
+ent: $2,000 initial setup
+- Internet reimbursement: $50/month
+- Co-working space access
+
+Perks and Discounts:
+- Employee discount program (1000+ retailers)
+- Company product discounts: 50% off
+- Mobile phone discount: 25% off
+- Car buying program
+- Mortgage assistance
+- Travel discounts
+
+Office Perks:
+- Free snacks and beverages
+- Catered lunch (Fridays)
+- Game rooms
+- Nap pods
+- Massage chairs
+- Birthday celebrations
+
+RETIREMENT BENEFITS
+
+Retirement Planning:
+- Financial planning seminars
+- 1-on-1 advisor consultations
+- Retirement calculators
+- Pre-retirement workshops
+- Phased retirement options
+
+Retiree Benefits:
+- Continued health coverage options
+- Retiree medical account
+- Life insurance conversion
+- Alumni network access
+- Volunteer opportunities
+
+ADDITIONAL BENEFITS
+
+Recognition Programs:
+- Spot bonuses
+- Peer recognition system
+- Service anniversaries
+- Innovation awards
+- Team achievement awards
+
+Volunteer Time Off:
+- 3 days paid volunteer time
+- Team volunteer events
+- Matc
+
+=== CHUNK 8 (chars 6400-7400) ===
+rograms:
+- Spot bonuses
+- Peer recognition system
+- Service anniversaries
+- Innovation awards
+- Team achievement awards
+
+Volunteer Time Off:
+- 3 days paid volunteer time
+- Team volunteer events
+- Matching donations up to $5,000
+- Board service support
+- Disaster relief time off
+
+Emergency Assistance:
+- Employee Relief Fund
+- Interest-free loans
+- Natural disaster support
+- Personal crisis assistance
+
+HOW TO ENROLL
+
+Online Enrollment:
+1. Visit benefits.techcorp.com
+2. Log in with SSO credentials
+3. Review plan options
+4. Make selections
+5. Add dependents
+6. Confirm elections
+7. Print confirmation
+
+Required Documents:
+- Social Security numbers
+- Birth certificates (dependents)
+- Marriage certificate (spouse)
+- Divorce decree (if applicable)
+
+Important Deadlines:
+- New Hire: 30 days from start
+- Open Enrollment: November 30
+- Life Events: 30 days from event
+
+QUALIFYING LIFE EVENTS
+
+Events allowing mid-year changes:
+- Marriage or divorce
+- Birth or adoption
+- Death of dependent
+- Loss of o
+
+=== CHUNK 9 (chars 7200-8200) ===
+t
+- Open Enrollment: November 30
+- Life Events: 30 days from event
+
+QUALIFYING LIFE EVENTS
+
+Events allowing mid-year changes:
+- Marriage or divorce
+- Birth or adoption
+- Death of dependent
+- Loss of other coverage
+- Change in spouse employment
+- Move affecting coverage
+
+Documentation required within 30 days.
+
+BENEFITS CONTACTS
+
+Benefits Service Center:
+- Phone: 1-800-BENEFITS (1-800-236-3348)
+- Email: benefits@techcorp.com
+- Portal: benefits.techcorp.com
+- Hours: 8 AM - 8 PM EST
+
+Specific Contacts:
+- Medical: BCBS 1-800-555-2000
+- Dental: Delta 1-800-555-3000
+- Vision: EyeMed 1-800-555-4000
+- 401(k): Fidelity 1-800-555-5000
+- Life/Disability: MetLife 1-800-555-6000
+- FSA/HSA: WageWorks 1-800-555-7000
+
+COST SUMMARY
+
+Monthly Premiums (Employee Share):
+- Medical PPO Plus: $200
+- Medical PPO Standard: $100
+- Medical HDHP: $0
+- Dental: $15
+- Vision: $8
+- Life Insurance: Varies
+- Total: $23-$223 depending on selections
+
+Annual Value Estimate:
+- Average total compensation: $150,000
+- Average 
+
+=== CHUNK 10 (chars 8000-8718) ===
+tandard: $100
+- Medical HDHP: $0
+- Dental: $15
+- Vision: $8
+- Life Insurance: Varies
+- Total: $23-$223 depending on selections
+
+Annual Value Estimate:
+- Average total compensation: $150,000
+- Average benefits value: $35,000
+- Total rewards: $185,000
+
+IMPORTANT REMINDERS
+
+- Pre-tax benefits reduce taxable income
+- Use it or lose it for Healthcare FSA
+- Preventive care is always free
+- Generic drugs save money
+- Review beneficiaries annually
+- Keep personal info updated
+- Download benefits app
+
+This guide provides an overview. For complete details, visit benefits.techcorp.com or contact HR.
+
+TechCorp is an equal opportunity employer. Benefits are subject to change and may vary by location and employment status.
+

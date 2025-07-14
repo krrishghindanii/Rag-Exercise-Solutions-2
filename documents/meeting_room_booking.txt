@@ -1,0 +1,327 @@
+MEETING ROOM BOOKING GUIDE
+TechCorp Facilities Management
+Last Updated: January 2025
+
+OVERVIEW
+
+This guide provides instructions for booking meeting rooms across all TechCorp offices. Our meeting room booking system ensures efficient use of our facilities and helps teams collaborate effectively.
+
+BOOKING SYSTEM ACCESS
+
+Web Portal: https://rooms.techcorp.com
+Mobile App: TechCorp Rooms (iOS/Android)
+Outlook Integration: Add-in available
+Slack Command: /bookroom
+
+Login Credentials: Use your TechCorp SSO credentials
+
+ROOM TYPES AND CAPACITIES
+
+1. Phone Booths (1-2 people)
+   - Private calls
+   - Quick 1:1 meetings
+   - No advance booking required
+   - 30-minute maximum
+
+2. Small Meeting Rooms (3-6 people)
+   - Team standups
+   - Small group discussions
+   - Video calls
+   - Standard AV equipment
+
+3. Medium Conference Rooms (7-12 people)
+   - Department meetings
+   - Client presentations
+   - Workshops
+   - Enhanced AV capabilities
+
+4. Large Conference Rooms (13-25 people)
+   - All-hands meetings
+   - Training sessions
+   - Major presentations
+   - Professional AV setup
+
+5. Board Rooms (15-30 people)
+   - Executive meetings
+   - Board presentations
+   - Important client meetings
+   - Premium facilities
+
+6. Special Purpose Rooms:
+   - Innovation Labs (10-15 people)
+   - Video Production Studios
+   - Training Rooms (30-50 people)
+   - Event Spaces (50-200 people)
+
+BOOKING POLICIES
+
+Advance Booking:
+- Standard rooms: Up to 90 days in advance
+- Board rooms: Up to 180 days in advance
+- Recurring meetings: Up to 1 year
+
+Time Limits:
+- Minimum booking: 30 minutes
+- Maximum booking: 4 hours (extensions available)
+- All-day bookings require manager approval
+
+Cancellation Policy:
+- Cancel at least 2 hours before meeting
+- No-shows tracked and reported
+- 3 no-shows per month triggers review
+
+Priority Booking:
+1. Client meetings
+2. Executive meetings
+3. Cross-functional teams
+4. Department meetings
+5. Individual bookings
+
+HOW TO BOOK A ROOM
+
+Via Web Portal:
+1. Login to https://rooms.techcorp.com
+2. Select date and time
+3. Choose office location
+4. Filter by capacity and amenities
+5. Select available room
+6. Add meeting details
+7. Invite attendees
+8. Confirm booking
+
+Via Outlook:
+1. Create new meeting
+2. Click "Book a Room" add-in
+3. Select preferences
+4. Choose from available rooms
+5. Room automatically added to invite
+
+Via Mobile App:
+1. Open TechCorp Rooms app
+2. Tap "Book Now" or "Schedule"
+3. Set parameters
+4. Browse available rooms
+5. Confirm with Face ID/Touch ID
+
+Via Slack:
+1. Type /bookroom
+2. Fill in the form
+3. Select from options
+4. Receive confirmation
+
+Quick Book (Ad-hoc):
+- Use tablets outside each room
+- Tap "Book Now" for immediate use
+- Default 30-minute booking
+- Extend from tablet if needed
+
+ROOM AMENITIES
+
+Standard in All Rooms:
+- WiFi (TechCorp-Meetings network)
+- Whiteboard or writable walls
+- Conference phone
+- Basic office supplies
+- Hand sanitizer
+
+Small/Medium Rooms:
+- 55" display screen
+- HDMI/USB-C connections
+- Wireless presentation
+- Video conferencing (Zoom/Teams)
+
+Large/Board Rooms:
+- Dual 75" displays
+- Professional audio system
+- Multiple wireless mics
+- Recording capabilities
+- Dedicated IT support
+- Catering setup area
+
+Special Equipment (By Request):
+- 360° conference cameras
+- Interactive whiteboards
+- Live streaming setup
+- Translation equipment
+- Accessibility devices
+
+ROOM LOCATIONS
+
+San Francisco HQ:
+- Floors 2-5: Standard meeting rooms
+- Floor 6: Executive board rooms
+- Floor 10: Event space
+- Floor 15: Innovation labs
+
+New York Office:
+- Floors 10-12: Meeting rooms
+- Floor 15: Board room
+- Floor 20: Sky lounge (bookable)
+
+See Office Locations document for complete list.
+
+BEST PRACTICES
+
+Before Your Meeting:
+- Book appropriate size room
+- Test AV needs in advance
+- Arrive 5 minutes early
+- Review room layout
+
+During Your Meeting:
+- Start and end on time
+- Use provided equipment carefully
+- Keep noise levels appropriate
+- Clean up after use
+
+After Your Meeting:
+- Return furniture to original layout
+- Erase whiteboards
+- Dispose of trash
+- Report any issues
+
+VIDEO CONFERENCING
+
+Supported Platforms:
+- Zoom (primary)
+- Microsoft Teams
+- Google Meet
+- Webex
+
+Room Controls:
+- Touch panel for all functions
+- One-touch join for scheduled meetings
+- Camera presets available
+- Auto-framing in large rooms
+
+Best Practices:
+- Test connection before participants join
+- Use room microphones, not laptops
+- Mute when not speaking
+- Position camera at eye level
+
+CATERING REQUESTS
+
+Ordering:
+- Book catering with room reservation
+- Minimum 24-hour notice
+- Select from approved vendors
+- Specify dietary restrictions
+
+Options:
+- Coffee/tea service
+- Continental breakfast
+- Lunch packages
+- Afternoon snacks
+- Full catering for events
+
+Billing:
+- Charged to department code
+- Manager approval for >$500
+- Monthly reports to finance
+
+ACCESSIBILITY
+
+All meeting rooms are ADA compliant with:
+- Wheelchair accessible entrances
+- Adjustable height tables
+- Hearing loop systems
+- Visual fire alarms
+- Accessible restrooms nearby
+
+Special Accommodations:
+- Contact facilities 48 hours in advance
+- ASL interpreters available
+- Large print materials
+- Assistive listening devices
+
+TROUBLESHOOTING
+
+Common Issues:
+
+Room is occupied but shows available:
+- Check for ad-hoc booking on tablet
+- Verify correct room number
+- Contact facilities
+
+AV equipment not working:
+- Check all cable connections
+- Restart system from touch panel
+- Call IT support: x5555
+
+Room access denied:
+- Verify booking confirmation
+- Check access permissions
+- Use backup access code
+
+Temperature issues:
+- Adjust via room control panel
+- Allow 15 minutes for change
+- Report persistent issues
+
+SUPPORT CONTACTS
+
+Facilities Help Desk:
+- Phone: x5400
+- Email: facilities@techcorp.com
+- Hours: 7am-7pm local time
+
+IT Support (AV Issues):
+- Phone: x5555
+- Email: itsupport@techcorp.com
+- Hours: 24/7
+
+Emergency:
+- Security: x5911
+- Medical: 911 (US) or local emergency
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: Can I book multiple rooms?
+A: Yes, but priority given to single bookings during high demand.
+
+Q: Can external guests access rooms?
+A: Yes, with employee escort and visitor badge.
+
+Q: How do I book recurring meetings?
+A: Select "Recurring" option and set frequency.
+
+Q: Can I change room after booking?
+A: Yes, if alternative is available. Use "Modify" function.
+
+Q: What if I need a room urgently?
+A: Check "Quick Book" tablets or contact facilities.
+
+Q: Can I book rooms in other offices?
+A: Yes, you have access to all TechCorp locations.
+
+Q: How do I report room damage?
+A: Email facilities immediately with photos.
+
+Q: Are rooms available on weekends?
+A: Yes, but requires manager approval and security notice.
+
+ROOM ETIQUETTE
+
+Do:
+- Respect time limits
+- Keep rooms clean
+- Report issues promptly
+- Cancel unneeded bookings
+
+Don't:
+- Monopolize rooms
+- Bring food without approval
+- Move furniture between rooms
+- Use for personal events
+
+SUSTAINABILITY
+
+Help us maintain green offices:
+- Turn off lights and screens
+- Use digital instead of printed materials
+- Properly sort waste
+- Report water leaks
+- Use reusable items when possible
+
+Remember: Meeting rooms are shared resources. Your cooperation ensures everyone has access to the spaces they need for productive collaboration.

@@ -1,0 +1,317 @@
+NEW EMPLOYEE ONBOARDING CHECKLIST
+TechCorp Industries
+Human Resources Department
+Welcome to the TechCorp Family!
+
+EMPLOYEE INFORMATION
+Name: _________________________________
+Start Date: ____________________________
+Department: ____________________________
+Manager: _______________________________
+Buddy: _________________________________
+Location: ______________________________
+
+PRE-ARRIVAL (HR Completes)
+□ Send welcome email with first-day instructions
+□ Mail welcome package to home address
+□ Create email account and system access
+□ Order business cards
+□ Prepare workspace and equipment
+□ Schedule IT equipment setup
+□ Add to payroll system
+□ Create building access badge
+□ Send new hire paperwork via DocuSign
+□ Assign onboarding buddy
+□ Schedule first-week meetings
+□ Add to team calendars and distribution lists
+
+DAY 1: WELCOME & ORIENTATION
+
+Morning (9:00 AM - 12:00 PM)
+□ Reception check-in and badge photo
+□ Welcome by HR team
+□ Office tour and emergency procedures
+□ Workspace setup and supplies
+□ IT equipment distribution:
+   □ Laptop and charger
+   □ Monitor(s)
+   □ Keyboard and mouse
+   □ Headset
+   □ Mobile phone (if applicable)
+□ Security briefing and badge activation
+□ Complete I-9 verification
+□ Benefits enrollment session
+□ Review and sign:
+   □ Employee handbook acknowledgment
+   □ Code of conduct
+   □ Confidentiality agreement
+   □ IT acceptable use policy
+   □ Emergency contact form
+
+Afternoon (1:00 PM - 5:00 PM)
+□ IT setup and training:
+   □ Computer login and password setup
+   □ Email configuration
+   □ VPN access
+   □ Software installation
+   □ Printer setup
+   □ Two-factor authentication
+□ Introduction to team members
+□ Desk setup and personalization
+□ Review first-week schedule
+□ Meet with onboarding buddy
+□ Company overview presentation
+
+WEEK 1: FOUNDATION
+
+Day 2: Systems & Tools
+□ Complete online orientation modules:
+   □ Company history and values
+   □ Organizational structure
+   □ Products and services overview
+   □ Customer overview
+□ Systems training:
+   □ Email and calendar (Outlook)
+   □ Instant messaging (Teams/Slack)
+   □ File storage (OneDrive/SharePoint)
+   □ Expense system
+   □ Time tracking system
+   □ HR self-service portal
+□ Department-specific tools training
+□ Meeting with IT for advanced setup
+□ Security awareness training (mandatory)
+
+Day 3: Role & Responsibilities
+□ Detailed role discussion with manager
+□ Review job description and expectations
+□ Set 30/60/90-day goals
+□ Introduction to current projects
+□ Access to relevant documentation
+□ Shadow team members
+□ Department orientation
+□ Learn team processes and workflows
+
+Day 4: Culture & Connections
+□ Attend new hire breakfast with leadership
+□ Company culture presentation
+□ Tour other departments
+□ Learn about employee resource groups
+□ Sign up for relevant mailing lists
+□ Coffee chats with key stakeholders
+□ Review communication norms
+□ Learn about company events and traditions
+
+Day 5: Integration
+□ Complete any remaining paperwork
+□ Finalize benefits elections
+□ First 1:1 with manager
+□ Begin initial assignments
+□ Set up recurring meetings
+□ Join team lunch
+□ End-of-week check-in with buddy
+□ Submit first timesheet
+
+WEEK 2: DEEP DIVE
+
+□ Product deep-dive training
+□ Customer service philosophy
+□ Sales methodology (if applicable)
+□ Technical training for role
+□ Attend team meetings
+□ Shadow customer calls
+□ Introduction to key clients/partners
+□ Complete compliance training:
+   □ Anti-harassment
+   □ Data privacy
+   □ Insider trading (if applicable)
+□ Meet with cross-functional partners
+□ Begin taking on responsibilities
+□ Mid-point check-in with HR
+
+WEEK 3-4: RAMP UP
+
+□ Take ownership of first projects
+□ Complete role-specific training
+□ Attend department all-hands
+□ Participate in team activities
+□ Set up LinkedIn and update profile
+□ Join relevant Slack channels
+□ Complete emergency contact updates
+□ Review and understand performance review process
+□ Schedule skip-level with department head
+□ Provide feedback on onboarding experience
+
+DAYS 30/60/90: MILESTONES
+
+30-Day Check-in:
+□ Manager review meeting
+□ Discuss progress on initial goals
+□ Address any concerns or questions
+□ Confirm benefits enrollment
+□ Complete 30-day survey
+□ Update development plan
+□ Celebrate first month!
+
+60-Day Check-in:
+□ Performance discussion with manager
+□ Review and adjust goals
+□ Identify training needs
+□ Discuss career path
+□ Networking progress review
+□ Project ownership assessment
+
+90-Day Review:
+□ Formal performance evaluation
+□ Goal setting for next quarter
+□ Development plan creation
+□ Full integration assessment
+□ Celebration of successful onboarding
+□ Remove "New Employee" calendar tag
+
+ONGOING REQUIREMENTS
+
+Training & Development:
+□ Annual security awareness refresh
+□ Quarterly product updates
+□ Department-specific certifications
+□ Leadership development (if applicable)
+□ Continuous learning opportunities
+
+Administrative Tasks:
+□ Update personal information as needed
+□ Annual benefits enrollment
+□ Timesheet submission (bi-weekly)
+□ Expense report submission
+□ Performance review participation
+□ Emergency contact annual update
+
+DEPARTMENT-SPECIFIC ITEMS
+
+Engineering:
+□ Development environment setup
+□ Code repository access
+□ CI/CD pipeline training
+□ Code review process
+□ Architecture overview
+□ Tech stack deep dive
+
+Sales:
+□ CRM access and training
+□ Territory assignment
+□ Sales methodology training
+□ Product certification
+□ Shadow experienced reps
+□ First customer introduction
+
+Marketing:
+□ Brand guidelines review
+□ Marketing automation access
+□ Content management system
+□ Analytics tools training
+□ Campaign planning process
+□ Agency introductions
+
+Customer Success:
+□ Support ticket system
+□ Knowledge base training
+□ Customer communication guidelines
+□ Escalation procedures
+□ SLA understanding
+□ Key account introductions
+
+RESOURCES & CONTACTS
+
+Important Links:
+- HR Portal: hr.techcorp.com
+- Benefits: benefits.techcorp.com
+- Learning: learn.techcorp.com
+- IT Support: help.techcorp.com
+- Company Directory: directory.techcorp.com
+- Policies: policies.techcorp.com
+
+Key Contacts:
+- HR Team: hr@techcorp.com (x5500)
+- IT Help Desk: help@techcorp.com (x5555)
+- Facilities: facilities@techcorp.com (x5400)
+- Security: security@techcorp.com (x5911)
+- Payroll: payroll@techcorp.com (x5550)
+
+Emergency Numbers:
+- Building Security: x5911
+- Medical Emergency: 911
+- IT Emergency: x5556
+- After-hours Building Access: x5912
+
+MANAGER'S CHECKLIST
+
+Before Employee Arrives:
+□ Prepare workspace
+□ Order equipment
+□ Create onboarding plan
+□ Assign buddy
+□ Schedule team introductions
+□ Prepare first assignments
+□ Block calendar for 1:1s
+
+First Day:
+□ Personal welcome
+□ Team introduction
+□ Role overview
+□ Workspace tour
+□ Lunch with team
+□ End-of-day check-in
+
+First Week:
+□ Daily check-ins
+□ Clear expectations setting
+□ Initial assignments
+□ Introductions to stakeholders
+□ Friday wrap-up meeting
+
+Ongoing:
+□ Weekly 1:1s
+□ Regular feedback
+□ Goal tracking
+□ Development discussions
+□ Performance reviews
+□ Recognition and celebration
+
+BUDDY RESPONSIBILITIES
+
+Week 1:
+□ First-day greeting and tour
+□ Lunch on first day
+□ Daily check-ins
+□ Answer questions
+□ Introduce to colleagues
+□ Share insider tips
+
+Weeks 2-4:
+□ Weekly coffee chats
+□ Help navigate company culture
+□ Include in social activities
+□ Share learning resources
+□ Provide honest feedback to manager
+
+Ongoing:
+□ Monthly check-ins for first 6 months
+□ Be available for questions
+□ Help build network
+□ Celebrate milestones
+
+NOTES SECTION
+
+Use this space to track additional items specific to the role or department:
+_________________________________________________
+_________________________________________________
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+SIGN-OFFS
+
+Employee Signature: _________________ Date: _______
+Manager Signature: __________________ Date: _______
+HR Signature: ______________________ Date: _______
+
+Welcome to TechCorp! We're excited to have you on board and look forward to your contributions to our team. This checklist ensures you have everything you need for a successful start. Don't hesitate to ask questions – we're here to help!

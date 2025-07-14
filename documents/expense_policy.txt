@@ -1,0 +1,338 @@
+EXPENSE REIMBURSEMENT POLICY
+TechCorp Industries
+Finance Department
+Effective: January 1, 2025
+
+PURPOSE
+
+This policy establishes guidelines for business expense reimbursement to ensure fair, consistent, and transparent handling of employee expenses while maintaining fiscal responsibility.
+
+POLICY OVERVIEW
+
+TechCorp will reimburse employees for reasonable and necessary expenses incurred while conducting company business. All expenses must be:
+- Business-related
+- Reasonable and necessary
+- Properly documented
+- Submitted timely
+- Approved by management
+
+EXPENSE SUBMISSION SYSTEM
+
+Online Portal: https://expenses.techcorp.com
+Mobile App: TechCorp Expenses (iOS/Android)
+Email: expenses@techcorp.com (for questions only)
+
+Submission Deadline: Within 30 days of expense
+Late submissions may be denied without exception
+
+APPROVAL HIERARCHY
+
+Up to $500: Direct manager
+$501-$2,500: Department head
+$2,501-$10,000: VP level
+Over $10,000: CFO approval required
+
+TRAVEL EXPENSES
+
+Air Travel:
+- Economy class for flights under 6 hours
+- Premium economy allowed for 6+ hours
+- Business class requires VP approval
+- Book at least 14 days in advance when possible
+- Use preferred vendors: United, Delta, American
+
+Ground Transportation:
+- Airport transfers: Uber/Lyft/Taxi approved
+- Rental cars: Intermediate size or below
+- Personal vehicle: $0.65 per mile (2025 IRS rate)
+- Parking: Actual cost with receipts
+- Tolls: Actual cost
+
+Preferred Rental Car Companies:
+- Enterprise
+- Hertz  
+- National
+
+Lodging:
+- Hotel stay limits by city:
+  * San Francisco/NYC: $350/night
+  * Major cities: $250/night
+  * Other locations: $175/night
+- Use preferred hotels for corporate rates
+- Actual cost for conferences at host hotel
+- Airbnb allowed with manager pre-approval
+
+Preferred Hotel Chains:
+- Marriott
+- Hilton
+- Hyatt
+
+Meals - Daily Limits:
+- Breakfast: $25
+- Lunch: $35
+- Dinner: $65
+- Total daily maximum: $125
+
+Note: Alcohol reimbursable with meals only, limited to 2 drinks
+
+Tips:
+- Meals: 15-20%
+- Taxi/rideshare: 15-20%
+- Hotel housekeeping: $5/day
+- Other services: Reasonable amounts
+
+International Travel:
+- Requires director-level pre-approval
+- Per diem rates vary by country
+- Currency conversion at date of expense
+- Travel insurance provided by company
+
+ENTERTAINMENT EXPENSES
+
+Client Entertainment:
+- Pre-approval required for events over $500
+- Provide names and companies of attendees
+- Business purpose must be documented
+- Reasonable amounts based on client level
+
+Team Events:
+- Department budgets allocated quarterly
+- $50 per person for team meals
+- $100 per person for special events
+- Manager approval required
+
+Prohibited Entertainment:
+- Adult entertainment venues
+- Personal entertainment
+- Family members (unless pre-approved)
+
+PROFESSIONAL DEVELOPMENT
+
+Training and Conferences:
+- Registration fees covered with approval
+- Travel expenses per standard policy
+- Materials and books included
+- Certification exam fees covered
+
+Annual Limits:
+- Individual contributor: $2,500
+- Manager: $3,500
+- Director+: $5,000
+
+Professional Memberships:
+- Job-related associations covered
+- Pre-approval required
+- Annual renewal reminders sent
+
+HOME OFFICE EXPENSES
+
+Equipment:
+- Monitor: Up to $500
+- Keyboard/mouse: Up to $150
+- Desk chair: Up to $500
+- Desk: Up to $750
+- One-time setup: $2,000 maximum
+
+Monthly Allowances:
+- Internet: $50/month
+- Cell phone: $75/month
+- Office supplies: $25/month
+
+Software:
+- Required software provided by IT
+- Additional software with manager approval
+- Personal software not reimbursable
+
+TECHNOLOGY PURCHASES
+
+Approval Required:
+- All hardware purchases need IT approval
+- Software must be on approved list
+- Cloud services require security review
+
+Standard Equipment:
+- Laptop: Provided by IT
+- Phone: Choose from approved models
+- Tablets: With business justification
+
+DOCUMENTATION REQUIREMENTS
+
+Required for ALL Expenses:
+- Original itemized receipts
+- Business purpose
+- Date and location
+- Attendees (for meals/entertainment)
+
+Missing Receipt Declaration:
+- Allowed for expenses under $25
+- Maximum 3 per month
+- Must provide detailed explanation
+
+Credit Card Receipts:
+- Must include itemized details
+- Credit card slips alone insufficient
+- Restaurant bills must show items ordered
+
+EXPENSE REPORT SUBMISSION
+
+Step-by-Step Process:
+1. Log into expense system
+2. Create new expense report
+3. Select expense category
+4. Upload receipts (photo or scan)
+5. Enter business purpose
+6. Add attendees if applicable
+7. Submit for approval
+8. Track status online
+
+Mobile App Features:
+- Receipt photo capture
+- Mileage tracking
+- Offline capability
+- Push notifications
+- Quick expense entry
+
+CORPORATE CREDIT CARDS
+
+Eligibility:
+- Employees traveling 5+ times per year
+- Managers and above
+- Others with CFO approval
+
+Cardholder Responsibilities:
+- Business use only
+- Submit expenses within 30 days
+- Reconcile statements monthly
+- Report lost/stolen immediately
+
+Prohibited Card Use:
+- Personal expenses
+- Cash advances (except international)
+- Personal travel
+- Non-approved expenses
+
+NON-REIMBURSABLE EXPENSES
+
+The following are NOT reimbursable:
+- Personal entertainment
+- Traffic violations/parking tickets
+- Personal grooming
+- Clothing (except safety equipment)
+- Personal travel insurance
+- Gym memberships (except travel)
+- Pet care
+- Lost/stolen items
+- Expenses without receipts (over $25)
+- First class upgrades without approval
+- Mini-bar charges
+- In-room movies
+- Laundry (trips under 5 days)
+- Personal phone calls
+- Spouse/family travel
+
+SPECIAL CIRCUMSTANCES
+
+Relocation Expenses:
+- Covered under separate relocation policy
+- Contact HR for details
+
+Interview Candidate Expenses:
+- Coordinate with recruiting
+- Follow standard travel guidelines
+- Submit through regular system
+
+Emergency Expenses:
+- Contact manager immediately
+- Document circumstances
+- May exceed normal limits with approval
+
+Medical Emergencies:
+- Seek treatment immediately
+- Save all documentation
+- Contact HR within 24 hours
+- May require additional forms
+
+COMPLIANCE AND AUDIT
+
+Internal Audit:
+- Random expense report audits
+- Annual review of high spenders
+- Pattern analysis for unusual activity
+
+Consequences of Non-Compliance:
+- First violation: Warning and training
+- Second violation: Written warning
+- Third violation: Suspension of privileges
+- Fraud: Immediate termination
+
+Tax Implications:
+- Most business expenses non-taxable
+- Some benefits may be taxable income
+- Consult Tax department for questions
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How long does reimbursement take?
+A: 5-7 business days after approval
+
+Q: Can I combine personal and business travel?
+A: Yes, but only business portion reimbursable
+
+Q: What if I exceed meal limits?
+A: You pay the difference
+
+Q: Can I expense team coffee runs?
+A: Yes, if reasonable and occasional
+
+Q: Are loyalty points mine to keep?
+A: Yes, but book through approved channels
+
+Q: Can I expense home internet if I WFH occasionally?
+A: Only with formal WFH agreement
+
+Q: What about client gifts?
+A: Up to $100 with pre-approval
+
+Q: Can I expense commute costs?
+A: No, regular commute not reimbursable
+
+QUICK REFERENCE GUIDES
+
+Meal Limits:
+- Breakfast: $25
+- Lunch: $35  
+- Dinner: $65
+- Daily Total: $125
+
+Hotel Limits:
+- Tier 1 Cities: $350
+- Tier 2 Cities: $250
+- Other: $175
+
+Approval Limits:
+- Manager: $500
+- Director: $2,500
+- VP: $10,000
+- CFO: Over $10,000
+
+KEY CONTACTS
+
+Expense Support:
+- Email: expenses@techcorp.com
+- Phone: x5600
+- Hours: 8am-6pm PST
+
+Corporate Card Support:
+- Lost/Stolen: 1-800-555-2345
+- Questions: corpcard@techcorp.com
+
+Travel Support:
+- Email: travel@techcorp.com
+- Phone: x5650
+- Emergency: 1-800-555-9999
+
+Policy Questions:
+- Finance: x5610
+- Your HR Business Partner
+
+Remember: When in doubt, ask before you spend. This policy ensures fairness for all employees while protecting company resources. Your cooperation and honest expense reporting are essential to maintaining these benefits.

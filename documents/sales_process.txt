@@ -1,0 +1,355 @@
+SALES PROCESS GUIDE
+TechCorp Industries
+Sales Excellence Team
+Updated: January 2025
+
+OVERVIEW
+
+The TechCorp sales process is designed to help our sales professionals consistently win deals while providing exceptional value to customers. This guide outlines our proven methodology, tools, and best practices.
+
+SALES METHODOLOGY: TECHCORP VALUE SELLING
+
+Our sales approach focuses on understanding customer needs, demonstrating value, and building long-term partnerships.
+
+Core Principles:
+1. Listen first, pitch second
+2. Focus on business outcomes, not features
+3. Build trust through expertise
+4. Create mutual success plans
+5. Maintain momentum throughout the cycle
+
+SALES STAGES AND ACTIVITIES
+
+Stage 1: PROSPECTING (0-10% Probability)
+
+Objectives:
+- Identify qualified leads
+- Initial research and preparation
+- First contact attempt
+
+Key Activities:
+- Use Sales Navigator and ZoomInfo for research
+- Review company news, financial reports, tech stack
+- Identify key stakeholders and decision makers
+- Craft personalized outreach messages
+
+Tools:
+- Salesforce CRM
+- LinkedIn Sales Navigator
+- ZoomInfo
+- Outreach.io
+
+Exit Criteria:
+- Initial contact established
+- Meeting scheduled
+- Basic qualification completed
+
+Stage 2: DISCOVERY (10-25% Probability)
+
+Objectives:
+- Understand customer's business challenges
+- Identify decision-making process
+- Establish initial fit
+
+Key Activities:
+- Conduct discovery calls using BANT framework
+- Document pain points and requirements
+- Map organizational structure
+- Identify competition
+
+Discovery Questions:
+- What challenges are you facing with your current solution?
+- What's driving the need for change now?
+- What does success look like in 12 months?
+- Who else is involved in this decision?
+- What's your timeline and budget?
+
+Exit Criteria:
+- Pain points documented
+- Budget range identified
+- Decision process mapped
+- Next steps agreed
+
+Stage 3: SOLUTION DESIGN (25-50% Probability)
+
+Objectives:
+- Design tailored solution
+- Build business case
+- Gain technical validation
+
+Key Activities:
+- Solution architecture workshop
+- ROI/TCO analysis
+- Technical deep dive sessions
+- Competitive positioning
+
+Deliverables:
+- Custom solution proposal
+- Business case with ROI projections
+- Implementation timeline
+- Reference architecture
+
+Exit Criteria:
+- Solution validated by customer
+- Business case accepted
+- Technical requirements confirmed
+- Formal proposal requested
+
+Stage 4: PROPOSAL/NEGOTIATION (50-75% Probability)
+
+Objectives:
+- Present formal proposal
+- Address objections
+- Negotiate terms
+
+Key Activities:
+- Executive presentation
+- Proposal review sessions
+- Objection handling
+- Contract negotiations
+
+Proposal Components:
+- Executive summary
+- Solution overview
+- Pricing and commercial terms
+- Implementation plan
+- Success criteria
+- Terms and conditions
+
+Common Objections and Responses:
+- "Too expensive" → Focus on ROI and total value
+- "Need more time" → Create urgency with limited offers
+- "Competitor is cheaper" → Emphasize differentiators
+- "Not sure about implementation" → Offer success guarantees
+
+Exit Criteria:
+- Proposal accepted
+- Terms agreed
+- Contract in legal review
+
+Stage 5: CLOSING (75-90% Probability)
+
+Objectives:
+- Finalize contracts
+- Secure signatures
+- Transition to implementation
+
+Key Activities:
+- Legal review coordination
+- Final negotiations
+- Signature collection
+- Internal deal approval
+
+Closing Techniques:
+- Assumptive close
+- Summary close
+- Urgency close
+- Partnership close
+
+Exit Criteria:
+- Contracts signed
+- Payment terms confirmed
+- Implementation kickoff scheduled
+
+Stage 6: CLOSED WON (100% Probability)
+
+Activities:
+- Update CRM with final details
+- Schedule implementation kickoff
+- Introduce Customer Success team
+- Send welcome package
+- Request testimonial/case study
+
+SALES TOOLS AND RESOURCES
+
+CRM - Salesforce
+- Log all activities within 24 hours
+- Update opportunity stages weekly
+- Maintain accurate forecasting
+- Use standard naming conventions
+
+Sales Enablement Platform - Showpad
+- Access latest presentations
+- Share approved content
+- Track buyer engagement
+- Customize materials
+
+Communication Tools
+- Email: Outlook with tracking
+- Video Calls: Zoom or Teams
+- Scheduling: Calendly
+- E-signatures: DocuSign
+
+PRICING AND DISCOUNTING
+
+Standard Pricing Tiers:
+- Starter: $999/month
+- Professional: $2,999/month  
+- Enterprise: $9,999/month
+- Custom: Based on requirements
+
+Discount Authority:
+- Sales Rep: Up to 10%
+- Sales Manager: Up to 20%
+- VP Sales: Up to 30%
+- CEO: Above 30%
+
+Approval Process:
+1. Submit discount request in Salesforce
+2. Include business justification
+3. Wait for approval before communicating
+4. Document in opportunity notes
+
+COMPETITIVE INTELLIGENCE
+
+Main Competitors:
+1. CompetitorX
+   - Strengths: Lower price, brand recognition
+   - Weaknesses: Limited features, poor support
+   - Counter: Emphasize TCO and support quality
+
+2. CompetitorY
+   - Strengths: Feature-rich, good UI
+   - Weaknesses: Complex, expensive
+   - Counter: Highlight ease of use and ROI
+
+3. CompetitorZ
+   - Strengths: Fast implementation
+   - Weaknesses: Not scalable, security concerns
+   - Counter: Focus on enterprise readiness
+
+Battlecards available in Showpad for each competitor.
+
+SALES METRICS AND KPIs
+
+Individual Metrics:
+- Quota attainment
+- Pipeline coverage (3x minimum)
+- Average deal size
+- Sales cycle length
+- Win rate
+- Activity metrics (calls, meetings, demos)
+
+Team Metrics:
+- Team quota attainment
+- Pipeline health
+- Forecast accuracy
+- Customer acquisition cost
+- Net revenue retention
+
+SALES COMPENSATION
+
+Base/Variable Split:
+- SDR: 70/30
+- Account Executive: 50/50
+- Senior AE: 40/60
+- Enterprise AE: 40/60
+
+Commission Structure:
+- 0-50% of quota: 5% commission
+- 50-100% of quota: 10% commission
+- 100%+ of quota: 15% commission
+- Accelerators for annual contracts
+
+SPIFFs and Bonuses:
+- New logo bonus: $1,000
+- Multi-year deal: 2x accelerator
+- Quarterly President's Club
+- Annual sales kickoff trip
+
+SALES TRAINING AND DEVELOPMENT
+
+Onboarding Program (First 30 Days):
+- Week 1: Product training
+- Week 2: Sales methodology
+- Week 3: Tools and systems
+- Week 4: Shadow experienced reps
+
+Ongoing Training:
+- Weekly sales meetings
+- Monthly product updates
+- Quarterly skills workshops
+- Annual sales certification
+
+Resources:
+- Sales playbooks in Showpad
+- Recorded demo library
+- Competitive battle cards
+- Customer success stories
+
+CUSTOMER SUCCESS HANDOFF
+
+Handoff Requirements:
+- Complete handoff form in Salesforce
+- Schedule kickoff call with CS team
+- Transfer all documentation
+- Introduce key stakeholders
+
+Information to Transfer:
+- Business objectives
+- Success criteria
+- Technical requirements
+- Implementation timeline
+- Key stakeholder contacts
+- Special terms or commitments
+
+SALES ETHICS AND COMPLIANCE
+
+Code of Conduct:
+- Always be truthful and transparent
+- Never make promises we can't keep
+- Respect competitive boundaries
+- Protect customer confidentiality
+- Follow all legal requirements
+
+Compliance Requirements:
+- Complete annual sales ethics training
+- Follow data privacy regulations
+- Maintain accurate records
+- Report any violations immediately
+
+TERRITORY MANAGEMENT
+
+Territory Assignment:
+- Geographic (East, Central, West)
+- Industry vertical
+- Company size
+- Named accounts
+
+Account Planning:
+- Develop account plans for top 20 accounts
+- Quarterly business reviews
+- Relationship mapping
+- Growth strategy documentation
+
+SALES OPERATIONS SUPPORT
+
+Sales Ops Team Services:
+- CRM administration
+- Quote and proposal support
+- Commission calculations
+- Territory planning
+- Analytics and reporting
+
+Contact Sales Ops:
+- Email: salesops@techcorp.com
+- Slack: #sales-operations
+- Extension: 5800
+
+QUICK REFERENCE
+
+Important Links:
+- CRM: https://techcorp.my.salesforce.com
+- Showpad: https://techcorp.showpad.com
+- Commission Portal: https://commissions.techcorp.com
+- Training: https://university.techcorp.com
+
+Key Contacts:
+- VP of Sales: Sarah Johnson (x5801)
+- Sales Operations: Mike Chen (x5802)
+- Sales Enablement: Lisa Park (x5803)
+- Legal/Contracts: legal@techcorp.com
+
+Remember: Success in sales comes from preparation, persistence, and always putting the customer first. Use this guide as your roadmap to consistent sales excellence.
+
+For questions or suggestions about this guide, contact salesenablement@techcorp.com

@@ -1,0 +1,355 @@
+CUSTOMER SUPPORT FAQ
+TechCorp Industries
+Customer Success Department
+Last Updated: January 2025
+
+GENERAL SUPPORT INFORMATION
+
+Support Channels:
+- Email: support@techcorp.com
+- Phone: 1-800-TECHCORP (1-800-832-4267)
+- Live Chat: Available on our website
+- Support Portal: https://support.techcorp.com
+- Twitter: @TechCorpSupport
+
+Support Hours:
+- Standard Support: Monday-Friday, 8 AM - 8 PM EST
+- Premium Support: 24/7/365
+- Holiday Schedule: Limited hours, emergency only
+
+Response Time SLAs:
+- Critical (Production Down): 1 hour
+- High (Major Impact): 4 hours
+- Medium (Minor Impact): 1 business day
+- Low (Questions): 2 business days
+
+ACCOUNT MANAGEMENT
+
+Q: How do I reset my password?
+A: 
+1. Go to https://accounts.techcorp.com
+2. Click "Forgot Password"
+3. Enter your email address
+4. Check email for reset link (valid for 24 hours)
+5. Create new password following requirements
+6. If issues persist, contact support
+
+Q: How do I update billing information?
+A:
+1. Log into your account dashboard
+2. Navigate to Settings > Billing
+3. Click "Update Payment Method"
+4. Enter new card information
+5. Save changes
+Note: Only account administrators can update billing
+
+Q: Can I change my subscription plan?
+A: Yes! You can upgrade anytime and downgrade at renewal:
+- Upgrades: Immediate, prorated billing
+- Downgrades: Effective at next renewal
+- Enterprise plans: Contact sales team
+- Educational discounts available
+
+Q: How do I add users to my account?
+A:
+1. Go to User Management in dashboard
+2. Click "Invite New User"
+3. Enter email addresses (up to 10 at once)
+4. Select permission level
+5. Users receive invitation email
+6. Bulk imports available for 50+ users
+
+Q: What are the different user permission levels?
+A:
+- Admin: Full access, billing, user management
+- Manager: Create/edit content, view reports
+- Editor: Create/edit own content
+- Viewer: Read-only access
+- Custom roles available on Enterprise
+
+TECHNICAL ISSUES
+
+Q: Why can't I log in?
+A: Common causes and solutions:
+1. Incorrect password - Use password reset
+2. Account locked - Too many attempts, wait 30 minutes
+3. Expired account - Check with admin
+4. Browser issues - Clear cache/cookies
+5. IP restrictions - Check with IT if on corporate network
+
+Q: The system is running slowly. What should I do?
+A:
+1. Check our status page: https://status.techcorp.com
+2. Clear browser cache and cookies
+3. Try different browser (Chrome, Firefox, Safari)
+4. Disable browser extensions
+5. Check internet connection speed
+6. Contact support if issue persists
+
+Q: I'm getting an error message. What does it mean?
+A: Common error codes:
+- Error 401: Authentication failed - Re-login
+- Error 403: Access denied - Check permissions
+- Error 404: Page not found - Check URL
+- Error 500: Server error - Try again later
+- Error 503: Service unavailable - Maintenance mode
+Always include error code when contacting support
+
+Q: How do I report a bug?
+A:
+1. Document steps to reproduce
+2. Take screenshots/video
+3. Note browser and OS version
+4. Submit via support portal
+5. Include affected users/data
+6. We'll provide ticket number for tracking
+
+Q: Is my data being backed up?
+A: Yes! Our backup policy:
+- Real-time replication
+- Daily backups retained 30 days
+- Weekly backups retained 90 days
+- Monthly backups retained 1 year
+- Geo-redundant storage
+- Self-service restore for past 7 days
+
+FEATURES AND FUNCTIONALITY
+
+Q: How do I export my data?
+A:
+1. Go to Settings > Data Management
+2. Click "Export Data"
+3. Select format (CSV, JSON, XML)
+4. Choose date range
+5. Select specific data types
+6. Receive download link via email
+Note: Large exports may take up to 24 hours
+
+Q: Can I integrate with other tools?
+A: Yes! We support:
+- Native integrations: Salesforce, HubSpot, Slack, Teams
+- API access for custom integrations
+- Zapier for 1000+ apps
+- Webhooks for real-time events
+- SSO with major providers
+See API documentation for details
+
+Q: How do I set up notifications?
+A:
+1. Access Settings > Notifications
+2. Choose notification types
+3. Select delivery method (email, SMS, in-app)
+4. Set frequency (immediate, daily, weekly)
+5. Configure quiet hours
+6. Test notifications
+
+Q: Is there a mobile app?
+A: Yes! Available for:
+- iOS: iPhone and iPad (iOS 14+)
+- Android: Phones and tablets (Android 10+)
+- Features: Full functionality except admin tools
+- Offline mode available
+- Biometric authentication supported
+
+Q: How do I collaborate with team members?
+A: Collaboration features:
+- Real-time editing
+- Comments and mentions (@username)
+- Version history
+- Activity feeds
+- Shared workspaces
+- Guest access for external users
+
+BILLING AND PRICING
+
+Q: What payment methods do you accept?
+A: We accept:
+- Credit cards (Visa, MasterCard, Amex)
+- ACH/Wire transfer (Enterprise only)
+- PayPal (selected regions)
+- Purchase orders (approved accounts)
+- Annual invoicing available
+
+Q: When will I be charged?
+A: Billing cycles:
+- Monthly plans: Same date each month
+- Annual plans: Anniversary date
+- Upgrades: Immediate, prorated
+- Renewals: Automatic unless cancelled
+- Grace period: 7 days for failed payments
+
+Q: How do I get a receipt/invoice?
+A:
+1. Log into account dashboard
+2. Go to Billing > Invoices
+3. Download PDF receipts
+4. Set up automatic email delivery
+5. Tax invoices available where required
+
+Q: Do you offer refunds?
+A: Refund policy:
+- 30-day money-back guarantee for new accounts
+- No refunds for partial months
+- Annual plans: Prorated refund within 60 days
+- Case-by-case basis for technical issues
+- Contact billing@techcorp.com
+
+Q: Are there any hidden fees?
+A: No hidden fees! Transparent pricing:
+- Overage charges clearly stated
+- No setup or cancellation fees
+- API calls included in plan limits
+- Storage limits specified
+- Additional users at published rates
+
+SECURITY AND COMPLIANCE
+
+Q: Is my data secure?
+A: Security measures include:
+- 256-bit SSL encryption in transit
+- AES-256 encryption at rest
+- SOC 2 Type II certified
+- ISO 27001 compliant
+- Annual penetration testing
+- 24/7 security monitoring
+
+Q: Where is my data stored?
+A: Data residency options:
+- US: Primary data centers in Virginia and Oregon
+- EU: Frankfurt and Dublin (GDPR compliant)
+- APAC: Singapore and Sydney
+- Data residency selectable for Enterprise
+- No data leaves selected region
+
+Q: How do you handle privacy?
+A: Privacy commitments:
+- GDPR and CCPA compliant
+- Data Processing Agreements available
+- Right to deletion honored
+- No selling of customer data
+- Transparent privacy policy
+- Regular privacy audits
+
+Q: Can I get a security questionnaire completed?
+A: Yes! Security documentation:
+- Standard questionnaire available online
+- Custom questionnaires: 5-10 business days
+- SOC 2 reports available under NDA
+- Security whitepaper downloadable
+- Contact security@techcorp.com
+
+Q: What about disaster recovery?
+A: Business continuity measures:
+- RTO: 4 hours
+- RPO: 1 hour
+- Multiple data center redundancy
+- Automated failover
+- Regular DR testing
+- Communication plan for incidents
+
+TRAINING AND RESOURCES
+
+Q: Do you offer training?
+A: Training options:
+- Free online tutorials
+- Live webinars weekly
+- Self-paced video courses
+- Certification programs
+- Custom enterprise training
+- New feature workshops
+
+Q: Where can I find documentation?
+A: Resources available at:
+- Help Center: https://help.techcorp.com
+- Video Tutorials: https://learn.techcorp.com
+- API Docs: https://api.techcorp.com/docs
+- Community Forum: https://community.techcorp.com
+- Knowledge Base: Searchable articles
+
+Q: Is there a user community?
+A: Yes! Join our community:
+- Official forum with 50,000+ members
+- Regional user groups
+- Annual user conference
+- Monthly virtual meetups
+- Slack community for customers
+- Expert office hours
+
+Q: How do I stay updated on new features?
+A: Stay informed via:
+- In-app notifications
+- Monthly newsletter
+- Blog: https://blog.techcorp.com
+- Release notes in dashboard
+- Follow @TechCorpUpdates
+- Opt-in beta program
+
+TROUBLESHOOTING TIPS
+
+Before Contacting Support:
+1. Check system status page
+2. Clear browser cache
+3. Try incognito/private mode
+4. Disable browser extensions
+5. Test on different network
+6. Review recent changes
+
+Information to Provide:
+- Account name and ID
+- Detailed problem description
+- Steps to reproduce
+- Error messages (exact text)
+- Screenshots or videos
+- Browser and OS versions
+- Time issue occurred
+
+ENTERPRISE SUPPORT
+
+Additional Enterprise Benefits:
+- Dedicated Customer Success Manager
+- Priority phone queue
+- Custom onboarding
+- Quarterly business reviews
+- Beta feature access
+- Executive briefings
+
+Enterprise Support Contacts:
+- Success Manager: Assigned at onboarding
+- Priority Line: 1-800-TECH-VIP
+- Email: enterprise@techcorp.com
+- Escalation: escalation@techcorp.com
+
+SERVICE LEVEL AGREEMENTS
+
+Standard SLA:
+- Uptime: 99.5% guaranteed
+- Response times as listed above
+- Monthly credits for downtime
+- Planned maintenance windows
+
+Premium SLA:
+- Uptime: 99.9% guaranteed
+- Faster response times
+- Dedicated support team
+- 24/7 phone support
+- Advanced monitoring
+
+CONTACT SUPPORT
+
+Best Practices for Faster Resolution:
+1. Use specific subject lines
+2. Include account information
+3. Describe expected vs. actual behavior
+4. Attach relevant screenshots
+5. Specify urgency level
+6. Reference previous tickets if applicable
+
+Support Portal Features:
+- Submit and track tickets
+- Live chat during business hours
+- Knowledge base search
+- Community forums
+- System status updates
+- Download resources
+
+Remember: We're here to help! Don't hesitate to reach out if you need assistance. Our goal is your success with TechCorp products.

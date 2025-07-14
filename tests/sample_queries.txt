@@ -1,0 +1,31 @@
+# Sample queries for testing the RAG system
+# Use these to manually test your system
+
+## Easy Queries (Direct fact lookup)
+What are the standard work hours?
+How many vacation days do new employees get?
+What's the phone number for the New York office?
+Which software is approved for development?
+What's the address of the London office? (from PDF)
+What are the main API endpoints available? (from PDF)
+Who is the Engineering Manager? (from CSV)
+What's Sarah Johnson's email address? (from CSV)
+
+## Medium Queries (Requires some inference)
+How do I set up remote work?
+What's the complete process for booking a meeting room?
+What are all the requirements for API authentication? (from PDF)
+What expenses can I get reimbursed for when traveling internationally?
+Which office locations have parking available? (from PDF)
+Which employees work in the Engineering department? (from CSV)
+
+## Hard Queries (Multi-step or complex)
+What's the complete onboarding process and timeline for new employees?
+How do the different pricing tiers compare and what discounts are available?
+What are all the security requirements for handling confidential data?
+What benefits am I eligible for and how much does the company contribute?
+
+## Edge Cases
+What happens if I exceed my API rate limit?
+Can I work remotely from another country?
+What should I do if I suspect my account has been compromised?

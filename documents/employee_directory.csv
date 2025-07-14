@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,department,title,manager,phone_extension,office_location,start_date
+1001,Sarah,Johnson,sarah.johnson@techcorp.com,Engineering,Senior Software Engineer,Mike Chen,5234,San Francisco,2021-03-15
+1002,Mike,Chen,mike.chen@techcorp.com,Engineering,Engineering Manager,Lisa Park,5201,San Francisco,2019-01-10
+1003,Lisa,Park,lisa.park@techcorp.com,Engineering,VP of Engineering,John Smith,5101,San Francisco,2018-05-22
+1004,David,Rodriguez,david.rodriguez@techcorp.com,Marketing,Marketing Specialist,Jennifer Adams,5312,New York,2022-08-01
+1005,Jennifer,Adams,jennifer.adams@techcorp.com,Marketing,Marketing Director,John Smith,5301,New York,2020-11-12
+1006,John,Smith,john.smith@techcorp.com,Executive,CEO,,5001,San Francisco,2017-01-01
+1007,Emily,Wang,emily.wang@techcorp.com,Sales,Account Executive,Robert Taylor,5423,Austin,2023-02-14
+1008,Robert,Taylor,robert.taylor@techcorp.com,Sales,Sales Manager,John Smith,5401,Austin,2019-09-03
+1009,Amanda,Brown,amanda.brown@techcorp.com,HR,HR Generalist,Carol White,5512,Chicago,2021-07-19
+1010,Carol,White,carol.white@techcorp.com,HR,HR Director,John Smith,5501,Chicago,2018-12-05
+1011,Kevin,Liu,kevin.liu@techcorp.com,Engineering,DevOps Engineer,Mike Chen,5267,San Francisco,2022-04-11
+1012,Rachel,Green,rachel.green@techcorp.com,Finance,Financial Analyst,Thomas Miller,5612,New York,2023-01-09
+1013,Thomas,Miller,thomas.miller@techcorp.com,Finance,CFO,John Smith,5601,New York,2017-08-15
+1014,Alex,Kumar,alex.kumar@techcorp.com,Engineering,Frontend Developer,Mike Chen,5245,Remote,2022-10-03
+1015,Maria,Garcia,maria.garcia@techcorp.com,Customer Success,Customer Success Manager,Sandra Lee,5721,Austin,2021-12-07
+1016,Sandra,Lee,sandra.lee@techcorp.com,Customer Success,VP Customer Success,John Smith,5701,Austin,2019-04-18
+1017,James,Wilson,james.wilson@techcorp.com,Legal,Legal Counsel,John Smith,5801,San Francisco,2020-06-30
+1018,Nicole,Davis,nicole.davis@techcorp.com,Engineering,QA Engineer,Mike Chen,5256,Chicago,2023-03-20
+1019,Ryan,Thompson,ryan.thompson@techcorp.com,IT,IT Support Specialist,Mark Johnson,5912,Remote,2022-11-14
+1020,Mark,Johnson,mark.johnson@techcorp.com,IT,IT Director,John Smith,5901,San Francisco,2018-03-12

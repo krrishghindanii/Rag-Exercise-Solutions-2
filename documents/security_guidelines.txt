@@ -1,0 +1,391 @@
+SECURITY GUIDELINES
+TechCorp Industries
+Information Security Department
+Classification: Internal Use
+Last Updated: January 2025
+
+EXECUTIVE SUMMARY
+
+Security is everyone's responsibility at TechCorp. These guidelines provide essential security practices to protect our company, employees, customers, and intellectual property from cyber threats and security breaches.
+
+PHYSICAL SECURITY
+
+Building Access:
+- Always wear your badge visibly
+- Never prop doors open
+- Don't tailgate or allow tailgating
+- Report lost badges immediately to x5911
+- Escort all visitors at all times
+- Challenge unknown persons politely
+
+Desk Security:
+- Lock screens when leaving desk (Windows+L or Cmd+Ctrl+Q)
+- Clear desk policy for sensitive documents
+- Lock drawers containing confidential info
+- Shred sensitive documents
+- Don't leave passwords visible
+- Secure laptops with cable locks
+
+Visitor Management:
+- All visitors must sign in at reception
+- Visitors receive temporary badges
+- Escorts required at all times
+- Return visitor badges when leaving
+- Report suspicious behavior
+
+Device Security:
+- Never leave devices unattended
+- Use privacy screens in public
+- Lock devices in hotel safes
+- Don't use public charging stations
+- Keep devices with you during travel
+
+INFORMATION SECURITY
+
+Data Classification:
+1. Public: Press releases, marketing materials
+2. Internal: General business information
+3. Confidential: Customer data, strategies
+4. Highly Confidential: Trade secrets, PII
+
+Handling Requirements by Classification:
+
+Public:
+- No special handling required
+- Can be shared externally
+
+Internal:
+- TechCorp employees only
+- Don't share outside company
+
+Confidential:
+- Need-to-know basis
+- Encrypt in transit
+- Secure storage required
+
+Highly Confidential:
+- Strict access controls
+- Encryption mandatory
+- Audit trail required
+- Executive approval for access
+
+PASSWORD SECURITY
+
+Password Requirements:
+- Minimum 12 characters
+- Mix of upper/lowercase, numbers, symbols
+- Unique for each account
+- No personal information
+- No common patterns
+
+Password Best Practices:
+- Use password manager (1Password/Bitwarden)
+- Never share passwords
+- Don't write passwords down
+- Change immediately if compromised
+- Use passphrases for memorability
+
+Multi-Factor Authentication (MFA):
+- Required for all systems
+- Use authenticator apps, not SMS
+- Backup codes stored securely
+- Report MFA issues immediately
+
+Common Password Mistakes:
+- Password123!
+- CompanyName2025
+- Keyboard patterns (qwerty)
+- Personal info (birthdays)
+- Same password everywhere
+
+EMAIL SECURITY
+
+Phishing Recognition:
+- Check sender address carefully
+- Hover over links before clicking
+- Look for urgency/threats
+- Verify unusual requests
+- Grammar/spelling errors
+- Generic greetings
+
+When You Receive Suspicious Email:
+1. Don't click links or attachments
+2. Don't reply or provide information
+3. Forward to phishing@techcorp.com
+4. Delete from inbox
+5. Alert colleagues if widespread
+
+Email Best Practices:
+- Encrypt sensitive data
+- Verify recipients before sending
+- Use BCC for large distributions
+- Don't auto-forward to personal email
+- Think before clicking "Reply All"
+
+Safe Email Practices:
+- Verify wire transfer requests by phone
+- Question unexpected attachments
+- Don't open password-protected files from unknown senders
+- Be cautious of .zip, .exe, .scr files
+
+NETWORK SECURITY
+
+WiFi Security:
+- Use TechCorp-Secure network at offices
+- Use VPN on any other network
+- Never use open WiFi without VPN
+- Don't set up personal hotspots at office
+- Report rogue access points
+
+VPN Usage:
+- Required for remote work
+- Connect before accessing company resources
+- Don't share VPN credentials
+- Report connection issues
+- Keep VPN client updated
+
+Network Segmentation:
+- Production separate from corporate
+- Guest network isolated
+- IoT devices on separate network
+- Development environments isolated
+
+ENDPOINT SECURITY
+
+Laptop/Desktop Security:
+- Antivirus must be active
+- Install updates within 7 days
+- Don't disable security software
+- Full disk encryption required
+- Report security alerts
+
+Mobile Device Security:
+- Enable device passcode/biometric
+- Install security updates promptly
+- Only install apps from official stores
+- Enable remote wipe
+- Report lost/stolen immediately
+
+USB and External Media:
+- Only use company-approved USB drives
+- Scan all external media
+- Encrypt sensitive data
+- Don't use found USB drives
+- Disable autorun features
+
+SOFTWARE SECURITY
+
+Approved Software:
+- Only install from Software Center
+- Request new software via IT ticket
+- Don't install personal software
+- Keep all software updated
+- Remove unused software
+
+Prohibited Software:
+- Torrenting/P2P applications
+- Hacking/penetration tools
+- Personal VPNs
+- Cryptocurrency miners
+- Unlicensed software
+
+Browser Security:
+- Keep browsers updated
+- Don't save passwords in browser
+- Clear cache/cookies regularly
+- Use HTTPS sites when possible
+- Be cautious with browser extensions
+
+CLOUD SECURITY
+
+Approved Cloud Services:
+- Microsoft 365
+- Google Workspace (specific teams)
+- Salesforce
+- AWS/Azure (with approval)
+- Box/Dropbox Business
+
+Cloud Best Practices:
+- Use corporate accounts only
+- Enable MFA on all cloud services
+- Don't share login credentials
+- Follow data classification rules
+- Report unauthorized cloud use
+
+File Sharing:
+- Use approved platforms only
+- Set appropriate permissions
+- Use expiring links when possible
+- Don't share sensitive data publicly
+- Track who has access
+
+SOCIAL ENGINEERING
+
+Common Tactics:
+- Pretexting (fake scenarios)
+- Baiting (too good to be true)
+- Quid pro quo (something for something)
+- Tailgating (physical access)
+- Phishing/Vishing/Smishing
+
+Protection Strategies:
+- Verify identity before sharing info
+- Be suspicious of urgency
+- Don't provide passwords by phone
+- Question unusual requests
+- Report suspicious contacts
+
+Examples to Watch For:
+- "IT needs your password"
+- "CEO needs gift cards urgently"
+- "You've won a prize"
+- "Account will be closed"
+- "Verify your information"
+
+INCIDENT RESPONSE
+
+What Constitutes an Incident:
+- Malware infection
+- Data breach/leak
+- Lost/stolen device
+- Unauthorized access
+- Suspicious activity
+- Phishing success
+
+Immediate Actions:
+1. Disconnect affected systems
+2. Don't attempt to fix yourself
+3. Preserve evidence
+4. Contact Security team
+5. Document everything
+
+Security Contacts:
+- Email: security@techcorp.com
+- Phone: x5911 (24/7)
+- Emergency: 1-800-555-5911
+- Anonymous tip line: x5999
+
+Incident Response Process:
+1. Detection and Analysis
+2. Containment
+3. Eradication
+4. Recovery
+5. Lessons Learned
+
+TRAVEL SECURITY
+
+Before Travel:
+- Register trip with Security
+- Update devices
+- Backup important data
+- Review destination risks
+- Get loaner devices if needed
+
+During Travel:
+- Use VPN always
+- Avoid public WiFi
+- Keep devices with you
+- Don't discuss work publicly
+- Be aware of surroundings
+
+High-Risk Countries:
+- Use travel laptops/phones
+- Assume all communications monitored
+- Don't bring sensitive data
+- Follow country-specific guidelines
+- Debrief with Security upon return
+
+SECURITY AWARENESS
+
+Training Requirements:
+- Annual security training mandatory
+- Quarterly phishing tests
+- Role-specific training
+- New hire security orientation
+- Incident-specific training
+
+Stay Informed:
+- Read security bulletins
+- Attend security brown bags
+- Follow @TechCorpSecurity
+- Check security portal regularly
+- Ask questions
+
+Red Flags to Report:
+- Unusual system behavior
+- Unexpected pop-ups
+- Slow computer performance
+- Modified files
+- Unknown processes running
+- Suspicious emails/calls
+
+COMPLIANCE REQUIREMENTS
+
+Regulatory Compliance:
+- GDPR (EU data)
+- CCPA (California privacy)
+- HIPAA (healthcare data)
+- PCI DSS (payment cards)
+- SOX (financial)
+
+Your Responsibilities:
+- Complete required training
+- Follow data handling procedures
+- Report compliance concerns
+- Cooperate with audits
+- Maintain documentation
+
+SANCTIONS FOR VIOLATIONS
+
+Progressive Discipline:
+- First offense: Counseling
+- Second offense: Written warning
+- Third offense: Suspension
+- Severe violation: Termination
+
+Severe Violations Include:
+- Intentional data theft
+- Selling company information
+- Installing malware
+- Sabotage
+- Gross negligence
+
+SECURITY TOOLS
+
+Available to All Employees:
+- Password Manager (1Password)
+- VPN Client
+- Antivirus Software
+- Encrypted File Transfer
+- Secure Messaging
+
+How to Access:
+- Software Center
+- IT Portal
+- Help Desk x5555
+- security-tools@techcorp.com
+
+QUICK REFERENCE
+
+Security Checklist:
+□ Lock screen when away
+□ Use strong passwords
+□ Enable MFA everywhere
+□ Think before clicking
+□ Verify suspicious requests
+□ Keep software updated
+□ Report incidents immediately
+□ Use VPN when remote
+□ Protect sensitive data
+□ Stay alert and aware
+
+Emergency Contacts:
+- Security Hotline: x5911
+- IT Help Desk: x5555
+- Compliance: x5900
+- Privacy: privacy@techcorp.com
+- Anonymous Tips: x5999
+
+Remember: Security is not just IT's job—it's everyone's responsibility. When in doubt, ask! It's better to verify than to compromise our security. Together, we keep TechCorp safe.
+
+For the latest updates and resources, visit: https://security.techcorp.com
