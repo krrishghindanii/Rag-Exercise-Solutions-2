@@ -13,3 +13,4 @@ pandas
 PyPDF2
 python-dotenv
 chromadb
+h 
