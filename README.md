@@ -218,63 +218,63 @@ The rationale behind this approach is multifaceted. First, context preservation 
 
 For the vector store, we utilize ChromaDB, an open-source vector database optimized for semantic retrieval. ChromaDB was chosen due to its balance of performance, usability, and extensibility.
 Key advantages of ChromaDB:
-•  Ease of use: Its intuitive Python API and support for both local and cloud-based deployments make setup and integration straightforward.
-•  High performance: ChromaDB is engineered for fast similarity searches and can manage large-scale vector data efficiently.
-•  Rich features: The system supports hybrid search, combining both semantic (vector-based) and lexical (keyword-based) retrieval—ideal for handling diverse query types.
-•  Seamless integration: It fits naturally into Python-centric data science and machine learning workflows, and its persistent storage support makes it production-ready.
-•  Strong community support: Active development and well-maintained documentation ensure ongoing usability and troubleshooting assistance.
+•  Ease of use: Its intuitive Python API and support for both local and cloud-based deployments make setup and integration straightforward. <br>
+•  High performance: ChromaDB is engineered for fast similarity searches and can manage large-scale vector data efficiently. <br>
+•  Rich features: The system supports hybrid search, combining both semantic (vector-based) and lexical (keyword-based) retrieval—ideal for handling diverse query types. <br>
+•  Seamless integration: It fits naturally into Python-centric data science and machine learning workflows, and its persistent storage support makes it production-ready. <br>
+•  Strong community support: Active development and well-maintained documentation ensure ongoing usability and troubleshooting assistance. <br>
 
 #### Embedding Model
 
-We use the sentence-transformers/all-MiniLM-L6-v2 model from the Sentence Transformers library to convert text chunks into semantic embeddings. This model strikes a practical balance between speed and accuracy, making it ideal for real-time retrieval tasks in production environments.
-The decision to use this model is based on several factors:
-•  Speed vs. quality: MiniLM-L6-v2 offers high-quality semantic representations while remaining lightweight enough for fast inference.
-•  Cost-effective and open-source: Since it runs locally, there are no API costs or rate limits—ideal for both prototyping and scaling.
-•  Compatibility: The model is widely adopted and well-supported across the Python and HuggingFace ecosystems, ensuring smooth integration with other components.
-•  Multilingual capability: While optimized for English, the model performs reasonably well on other languages, making it a strong default for multi-regional applications.
+We use the sentence-transformers/all-MiniLM-L6-v2 model from the Sentence Transformers library to convert text chunks into semantic embeddings. This model strikes a practical balance between speed and accuracy, making it ideal for real-time retrieval tasks in production environments.<br>
+The decision to use this model is based on several factors:<br>
+•  Speed vs. quality: MiniLM-L6-v2 offers high-quality semantic representations while remaining lightweight enough for fast inference.<br>
+•  Cost-effective and open-source: Since it runs locally, there are no API costs or rate limits—ideal for both prototyping and scaling.<br>
+•  Compatibility: The model is widely adopted and well-supported across the Python and HuggingFace ecosystems, ensuring smooth integration with other components.<br>
+•  Multilingual capability: While optimized for English, the model performs reasonably well on other languages, making it a strong default for multi-regional applications.<br>
 
 ## Sample Queries
 
 The system is designed to handle a wide range of query types, reflecting real-world enterprise use cases. Some example queries include:
 
-•  Policy-related:
-   o  "What are the vacation days policy?"
-   o  "How many sick days do employees get per year?"
-•  Procedural:
-   o  "How do I book a meeting room?"
-   o  "What is the process for expense reimbursement?"
-•  Directory and contact:
-   o  "Who is the Engineering Manager?"
-   o  "Who do I contact for IT support?"
-•  Location and logistics:
-   o  "What are the office locations?"
-   o  "Where is the New York office located?"
-•  Technical/product information:
-   o  "What is the API rate limit?"
-   o  "Where can I find the product roadmap for 2025?"
+•  Policy-related:<br>
+   o  "What are the vacation days policy?"<br>
+   o  "How many sick days do employees get per year?"<br>
+•  Procedural:<br>
+   o  "How do I book a meeting room?"<br>
+   o  "What is the process for expense reimbursement?"<br>
+•  Directory and contact:<br>
+   o  "Who is the Engineering Manager?"<br>
+   o  "Who do I contact for IT support?"<br>
+•  Location and logistics:<br>
+   o  "What are the office locations?"<br>
+   o  "Where is the New York office located?"<br>
+•  Technical/product information:<br>
+   o  "What is the API rate limit?"<br>
+   o  "Where can I find the product roadmap for 2025?"<br>
 
-These queries demonstrate the system’s ability to retrieve both factual and procedural information from a wide array of internal documents, supporting teams in HR, IT, operations, and engineering.
+These queries demonstrate the system’s ability to retrieve both factual and procedural information from a wide array of internal documents, supporting teams in HR, IT, operations, and engineering.<br>
 
 ## Evaluation Results
 
 Our system has been evaluated using both automated tests and manual review.
 
 Automated Testing:
-•  All predefined test queries in tests/test_queries.py return accurate results.
-•  Retrieval accuracy remains high for documents that are well-chunked and well-embedded.
-•  Hybrid search strategies (semantic + keyword) significantly improve recall when user queries contain specific terminology not strongly captured in embeddings.
-Manual Evaluation:
-•  For routine HR, IT, and policy queries, the system consistently returns accurate and contextually relevant results, often referencing the correct source document.
-•  In cases of vague or overly broad queries, the system surfaces semantically relevant results but may require user clarification to refine the answer.
-Performance Metrics:
-•  Indexing over 10 documents, comprising thousands of chunks, typically completes in under a minute on a modern laptop.
+•  All predefined test queries in tests/test_queries.py return accurate results.<br>
+•  Retrieval accuracy remains high for documents that are well-chunked and well-embedded.<br>
+•  Hybrid search strategies (semantic + keyword) significantly improve recall when user queries contain specific terminology not strongly captured in embeddings.<br>
+Manual Evaluation:<br>
+•  For routine HR, IT, and policy queries, the system consistently returns accurate and contextually relevant results, often referencing the correct source document.<br>
+•  In cases of vague or overly broad queries, the system surfaces semantically relevant results but may require user clarification to refine the answer.<br>
+Performance Metrics:<br>
+•  Indexing over 10 documents, comprising thousands of chunks, typically completes in under a minute on a modern laptop.<br>
 
-•  Query response times for both semantic and hybrid search modes are consistently under 1 second, enabling near real-time retrieval.
+•  Query response times for both semantic and hybrid search modes are consistently under 1 second, enabling near real-time retrieval.<br>
 
-## Known Limitations
+## Known Limitations<br>
 
-•  Embedding quality: The MiniLM model, while efficient, may not fully capture domain-specific or highly technical language nuances.
-•  PDF parsing: Poorly formatted or scanned PDFs may extract with noise or missing content, affecting downstream accuracy.
+•  Embedding quality: The MiniLM model, while efficient, may not fully capture domain-specific or highly technical language nuances.<br>
+•  PDF parsing: Poorly formatted or scanned PDFs may extract with noise or missing content, affecting downstream accuracy.<br>
 
 ## Future Improvements
 
