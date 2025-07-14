@@ -279,12 +279,12 @@ Performance Metrics:
 ## Future Improvements
 
 To address current gaps and further enhance capabilities, the following improvements are planned:
-•  Smarter chunking: Develop adaptive or structure-aware chunking techniques that retain context more intelligently.
-•  Advanced embeddings: Enable users to choose or fine-tune embeddings for their specific domain, such as legal, medical, or technical.
-•  Real-time indexing: Support dynamic document updates and hot-reloading to eliminate downtime during ingestion.
-•  Feedback loop: Integrate a user feedback mechanism to improve search accuracy and relevance over time.
-•  Enhanced ranking: Explore the use of cross-encoders or LLM-based rerankers to prioritize the most relevant results.
-•  Access control: Add enterprise-grade user authentication and role-based document permissions.
-•  Analytics dashboard: Provide visibility into usage trends, query performance, and system health.
-•  Multilingual support: Incorporate language-agnostic or multilingual models to support global organizations.
+•  Smarter chunking: Develop adaptive or structure-aware chunking techniques that retain context more intelligently. <br>
+•  Advanced embeddings: Enable users to choose or fine-tune embeddings for their specific domain, such as legal, medical, or technical.<br>
+•  Real-time indexing: Support dynamic document updates and hot-reloading to eliminate downtime during ingestion.<br>
+•  Feedback loop: Integrate a user feedback mechanism to improve search accuracy and relevance over time.<br>
+•  Enhanced ranking: Explore the use of cross-encoders or LLM-based rerankers to prioritize the most relevant results.<br>
+•  Access control: Add enterprise-grade user authentication and role-based document permissions.<br>
+•  Analytics dashboard: Provide visibility into usage trends, query performance, and system health. <br>
+•  Multilingual support: Incorporate language-agnostic or multilingual models to support global organizations. <br>
 •  Ecosystem integrations: Build native connectors for Slack, Microsoft Teams, and other workplace tools to enable seamless Q&A.
