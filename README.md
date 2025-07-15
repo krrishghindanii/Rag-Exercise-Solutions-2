@@ -18,6 +18,9 @@ This RAG (Retrieval-Augmented Generation) system helps employees find informatio
 ## Prerequisites
 
 - Python 3.8 or higher
+- **This project requires Python 3.10 or 3.11.**  
+Python 3.12 is not yet fully supported by PyTorch and may lead to errors loading shared libraries (`libtorch_cpu.dylib`).
+
 - pip (Python package manager)
 - An OpenAI API key (for response generation)
 
@@ -27,8 +30,8 @@ This RAG (Retrieval-Augmented Generation) system helps employees find informatio
 
 ```bash
 # If using git
-git clone https://github.com/krrishghindanii/Rag-Exercise-Solutions-2/blob/main/README.md
-cd rag-interview-exercise-2-main
+git clone https://github.com/krrishghindanii/Rag-Exercise-Solutions-2.git
+cd Rag-Exercise-Solutions-2
 
 # Or download and extract the ZIP file
 ```
@@ -37,7 +40,8 @@ cd rag-interview-exercise-2-main
 
 ```bash
 # Create virtual environment
-python3 -m venv venv
+python3.10 -m venv venv
+source venv/bin/activate
 
 # Activate virtual environment
 # On macOS/Linux:
@@ -51,6 +55,13 @@ venv\Scripts\activate
 
 ```bash
 pip install -r requirements.txt
+
+⚠️ If you hit libtorch_cpu.dylib errors, try:
+pip install torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+```
+Configure Environment Variables
+```
+cp .env.example .env
 ```
 
 This will install:
