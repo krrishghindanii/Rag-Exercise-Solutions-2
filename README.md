@@ -39,13 +39,9 @@ cd Rag-Exercise-Solutions-2
 ### 2. Create a Virtual Environment (Recommended)
 
 ```bash
-# Create virtual environment
-python3.10 -m venv venv
-source venv/bin/activate
-
-# Activate virtual environment
-# On macOS/Linux:
-source venv/bin/activate
+pyenv install 3.10.13
+pyenv virtualenv 3.10.13 rag-env
+pyenv activate rag-env
 
 # On Windows:
 venv\Scripts\activate
@@ -56,13 +52,30 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 
-⚠️ If you hit libtorch_cpu.dylib errors, try:
+⚠️ If you hit libtorch_cpu.dylib errors, try running these two lines at once:
+pip uninstall torch
 pip install torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
 ```
-Configure Environment Variables
+Use M1/M2 Native PyTorch Builds (for Apple Silicon)
+If you're on an M1/M2 Mac, try:
+```
+pip install torch==2.1.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+Or the version with Metal backend:
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
 ```
 cp .env.example .env
 ```
+# Clean start
+rm -rf venv
+python3.10 -m venv venv
+source venv/bin/activate
+
+# Reinstall
+pip install -r requirements.txt
+```
+
+
 
 This will install:
 - `streamlit` - Web UI framework
